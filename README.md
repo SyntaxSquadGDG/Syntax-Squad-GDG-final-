@@ -7,7 +7,7 @@
 ### https://drive.google.com/file/d/1cA_a6d484Ze6Hh2O8-0fPCG0wVq4l5Bh/view?usp=sharing
 
 ## BMC 
-
+### https://drive.google.com/drive/folders/1vLE0fYZSHabdo8O3jg3SLUeVLnLGr2-J?usp=sharing
 
 
 ## Marketing plan 
