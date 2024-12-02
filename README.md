@@ -1,4 +1,4 @@
-# Syntax-Squad-GDG-final-
+# Project deliverables <all are here>
 ### Final project deliverables 
 ## Presentation 
 ### https://drive.google.com/drive/folders/1vLE0fYZSHabdo8O3jg3SLUeVLnLGr2-J?usp=sharing
@@ -12,6 +12,9 @@
 
 ## Marketing plan 
 ### https://www.canva.com/design/DAGYJB9yN6s/IsDkTFEBvzsXpDAwF9XpCw/edit?utm_content=DAGYJB9yN6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## UI
+### https://www.figma.com/design/yFakxrokAyJenDny1kM1Gd/Syntax-Squad?node-id=0-1&t=7QFwYmrZALPyfkVt-1
 
 ## Source code 
 
